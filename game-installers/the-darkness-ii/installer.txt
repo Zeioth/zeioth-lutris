@@ -1,5 +1,5 @@
 files:
-- dxvk: https://raw.githubusercontent.com/Zeioth/zeioth-lutris/master/game-installers/killer-is-dead/vk9-0.25.0.zip
+- dxvk: https://raw.githubusercontent.com/Zeioth/zeioth-lutris/master/common/dxvk-0.42.zip
 game:
   appid: 67370
   prefix: $GAMEDIR/prefix

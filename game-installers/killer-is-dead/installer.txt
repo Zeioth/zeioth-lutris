@@ -1,0 +1,23 @@
+files:
+- vk9: https://raw.githubusercontent.com/Zeioth/zeioth-lutris/master/common/vk9-0.25.0.zip
+- unlockfps: https://raw.githubusercontent.com/Zeioth/zeioth-lutris/master/game-installers/killer-is-dead/kid-unlockfps-0.0.1.zip
+game:
+  appid: 261110
+installer:
+- task:
+    name: create_prefix
+    prefix: $GAMEDIR/prefix
+- task:
+    app: xact_jun2010
+    name: winetricks
+    prefix: $GAMEDIR/prefix
+- extract:
+    dst: $GAMEDIR/Binaries/Win32/
+    file: vk9
+    format: zip
+- extract:
+    dst: $GAMEDIR/KidGame/Config/
+    file: unlockfps
+    format: zip
+winesteam:
+  version: staging-3.6-i386
