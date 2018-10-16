@@ -1,15 +1,16 @@
 files:
-- qcshadercache: https://github.com/Zeioth/zeioth-lutris/raw/master/game-installers/quake-champions/quake-champions-dxvk-cache-0.0.1.zip
+- qcshadercache: https://github.com/Zeioth/zeioth-lutris/raw/master/game-installers/quake-champions/quake-champions-dxvk-cache-0.0.2.zip
 game:
   appid: 611500
 installer:
 - extract:
-    dst: $GAMEDIR
+    dst: $GAMEDIR/dxvk-state-cache/
     file: qcshadercache
     format: zip
 system:
   env:
     DXVK_HUD: '1'
+    DXVK_STATE_CACHE_PATH: $GAMEDIR/dxvk-state-cache/
     WINEESYNC: '1'
     __GL_SHADER_DISK_CACHE_PATH: $GAMEDIR
     __GL_SHADER_DISK_CACHE_SKIP_CLEANUP: '1'
