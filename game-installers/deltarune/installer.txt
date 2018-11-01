@@ -1,0 +1,12 @@
+files:
+- game_installer: http://download.bladeandsoul.com/BnS_Lite_Installer.exe
+installer:
+- extract:
+    dst: $GAMEDIR
+    file: game_installer
+    format: zip
+game:
+  exe: $GAMEDIR/DELTARUNE.exe
+  prefix: $GAMEDIR
+winesteam:
+  version: tkg-3.19-x86_64
