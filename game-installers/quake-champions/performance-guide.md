@@ -3,12 +3,12 @@ HOW TO OPTIMIZE QUAKE CHAMPIONS
 
 Better frametimes = Smoother gaming experience
 -----------------------------------------------
-Your screen can only render as much FPS as Hz has. This mean, that having more FPS won't make the game faster, nor it's going to eliminate stuttering. How do we get rid of it then?
+Your screen can only render as much FPS as Hz has. This means, that having more FPS won't make the game faster, nor it's going to eliminate stuttering. How do we get rid of it then?
 
 
 * Limit your FPS to 62 (The refresh rate of your screen+4%).
-* Disable V-Sync
-* Set your graphics to low
+* Disable V-Sync.
+* Set your graphics to low.
 
 **Optionally**: 
 If you want to experiment by yourself, you can enable the [frametimes graph](https://i.imgur.com/5UkiBri.png) with the env variable
@@ -22,13 +22,13 @@ Low FPS - Determining the cause
 -----------------------------------------------
 There are 3 possible causes for low FPS:
 
-**CPU**
+**CPU**: 
 This is the most common issue. If you can, enable some kind of CPU monitor, and make sure that your CPU it's not working at 100% capacity. If so, you have a bottleneck there, and you need a more powerful CPU. 
 
-**GPU**
+**GPU**: 
 Once your CPU is not working at 100% capacity, the better your GPU is, the more FPS you are gonna get. As simple as that. Luckly most modern GPUs can run QC at 60 stable FPS (yes, on linux too).
 
-**MEMORY**
+**MEMORY**: 
 You need at least 4 Gb to run Quake Champions. If you don't, the game will run really slow, and possibly even make your PC frozen.
 
 
