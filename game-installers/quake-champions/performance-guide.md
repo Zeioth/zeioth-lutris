@@ -37,11 +37,11 @@ The game still gets stuck
 There are two possible causes for this:
 
 
-**You just installed the game**
+**You just installed the game**: 
 Vulkan need some time to fill the shader cache. After a couple of matches, the FPS should be 100% stable. This also happens when you update your GPU drivers, or DXVK.
 
 
-**QC is very bad optimized**
+**QC is very bad optimized**: 
 Sorry to be harsh here, but it's true. No matter how good your system is, you still are going to experience FPS spikes in 3 moments: When you die, when you respawn, and when you use a portal. This problem also exists on Windows. Luckly most of the time it's not very noticeable.
 
 
