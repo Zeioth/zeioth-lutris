@@ -23,13 +23,13 @@ Low FPS - Determining the cause
 There are 3 possible causes for low FPS:
 
 **CPU**: 
-This is the most common issue. If you can, enable some kind of CPU monitor, and make sure that your CPU it's not working at 100% capacity. If so, you have a bottleneck there, and you need a more powerful CPU. 
+This is the most common issue. Enable the CPU monitor of your operative syste, and make sure that your CPU is not working at 100% capacity. If this is the case, then you have a bottleneck.
 
 **GPU**: 
-Once your CPU is not working at 100% capacity, the better your GPU is, the more FPS you are gonna get. As simple as that. Luckly most modern GPUs can run QC at 60 stable FPS (yes, on linux too).
+Once you have discarded a CPU issue: The better your GPU is, the more FPS you are gonna get. As simple as that. In some cases, havig the last version of Wine, DXVk, and your GPU drivers, can help to increase FPS.
 
 **MEMORY**: 
-You need at least 4 Gb to run Quake Champions. If you don't, the game will run really slow, and possibly even make your PC frozen.
+You need at least 4 Gb to run Quake Champions. If you don't have enough RAM, the game is gonna run very slow, and if you run out of virtual memory, your game will crash.
 
 
 The game still gets stuck
@@ -49,3 +49,18 @@ Sorry to be harsh here, but it's true. No matter how good your system is, you st
 Other minor optimizations
 -----------------------------------------------
 Take a look to [Lutris performance guide](https://github.com/lutris/lutris/wiki/Performance-Tweaks).
+
+
+
+Oh man this sucks... There's something else I can do?
+-----------------------------------------------
+Overclock your hardware. I only recommend this option if you have tried all the other points of this guide, but still can't get as much FPS as your screen refresh rate. Overclocking is safe 99% of the time, but remember, the consecuences are always YOUR responsability. Do it only if you know what you are doing.
+
+**CPU**: 
+Overclocking your CPU you can usually get up to 25% extra performance.
+
+**GPU**: 
+Overclocking your CPU you can usually get up to 25% extra performance.
+
+**MEMORY**: 
+Overclocking your RAM you can usually get up to 0% extra performance. (Don't believe me? Try it)
