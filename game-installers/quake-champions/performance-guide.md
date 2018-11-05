@@ -50,17 +50,3 @@ Other minor optimizations
 -----------------------------------------------
 Take a look to [Lutris performance guide](https://github.com/lutris/lutris/wiki/Performance-Tweaks).
 
-
-
-Oh man this sucks... There's something else I can do?
------------------------------------------------
-Overclock your hardware. I only recommend this option if you have tried all the other points of this guide, but still can't get as much FPS as your screen refresh rate. Overclocking is safe 99% of the time, but remember, the consecuences are always YOUR responsability. Do it only if you know what you are doing.
-
-**CPU**: 
-Overclocking your CPU you can usually get up to 25% extra performance.
-
-**GPU**: 
-Overclocking your CPU you can usually get up to 25% extra performance.
-
-**MEMORY**: 
-Overclocking your RAM you can usually get up to 0% extra performance. (Don't believe me? Try it)
