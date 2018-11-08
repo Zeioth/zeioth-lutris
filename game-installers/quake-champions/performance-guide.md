@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=oHMOgV-8heM&t=82sHOW TO OPTIMIZE QUAKE CHAMPIONS 
+HOW TO OPTIMIZE QUAKE CHAMPIONS 
 ================================================
 
 Better frametimes = Smoother gaming experience
