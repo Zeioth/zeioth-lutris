@@ -53,6 +53,4 @@ Take a look to [Lutris performance guide](https://github.com/lutris/lutris/wiki/
 
 Results you can expect
 -----------------------------------------------
-As long as your hardware as no bottlenecks, you can expect [this](Other minor optimizations
------------------------------------------------
-Take a look to [Lutris performance guide](https://github.com/lutris/lutris/wiki/Performance-Tweaks).) kind of performance.
+As long as your hardware as no bottlenecks, you can expect [this](https://www.youtube.com/watch?v=oHMOgV-8heM&t=82s) kind of performance.
