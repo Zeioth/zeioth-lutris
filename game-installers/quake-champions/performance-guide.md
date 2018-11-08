@@ -1,4 +1,4 @@
-HOW TO OPTIMIZE QUAKE CHAMPIONS 
+https://www.youtube.com/watch?v=oHMOgV-8heM&t=82sHOW TO OPTIMIZE QUAKE CHAMPIONS 
 ================================================
 
 Better frametimes = Smoother gaming experience
@@ -53,4 +53,4 @@ Take a look to [Lutris performance guide](https://github.com/lutris/lutris/wiki/
 
 Results you can expect
 -----------------------------------------------
-As long as your hardware as no bottlenecks, you can expect [this](https://www.youtube.com/watch?v=oHMOgV-8heM&t=82s) kind of performance.
+As long as your hardware as no bottlenecks, you can expect this kind of performance. [See video](https://www.youtube.com/watch?v=oHMOgV-8heM&t).
