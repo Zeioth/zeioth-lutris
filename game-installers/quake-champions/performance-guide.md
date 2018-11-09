@@ -1,4 +1,4 @@
-systssyteHOW TO OPTIMIZE QUAKE CHAMPIONS 
+8systssyteHOW TO OPTIMIZE QUAKE CHAMPIONS 
 ================================================
 
 Better frametimes = Smoother gaming experience
@@ -6,7 +6,7 @@ Better frametimes = Smoother gaming experience
 Your screen can only show as many FPS as Hz supports. This means, that having more FPS won't make the game faster, nor it's going to eliminate stuttering. How do we get rid of it then?
 
 
-* Limit your FPS to 62 (The refresh rate of your screen+4%).
+* Limit your FPS to 65 (The refresh rate of your screen+8%).
 * Disable V-Sync.
 * Set your graphics to low.
 
