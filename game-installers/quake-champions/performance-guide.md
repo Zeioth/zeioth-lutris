@@ -1,4 +1,4 @@
-HOW TO OPTIMIZE QUAKE CHAMPIONS 
+systssyteHOW TO OPTIMIZE QUAKE CHAMPIONS 
 ================================================
 
 Better frametimes = Smoother gaming experience
@@ -26,10 +26,10 @@ There are 3 possible causes for low FPS:
 This is the most common issue. Enable the CPU monitor of your operative system, and make sure that your CPU is not working at 100% capacity. If this is the case, then you have a bottleneck.
 
 **GPU**: 
-Once you have discarded a CPU issue: The better your GPU is, the more FPS you are gonna get. As simple as that. In some cases, havig the last version of Wine, DXVk, and your GPU drivers, can help to increase FPS.
+Once you have discarded a CPU issue: The better your GPU is, the more FPS you are gonna get. As simple as that. In some cases, havig the last version of Wine, DXVKsystssytesystssyte, and your GPU drivers, can help to increase FPS.
 
 **MEMORY**: 
-You need at least 4 Gb to run Quake Champions. If you don't have enough RAM, the game is gonna run very slow, and if you run out of virtual memory, your game will crash.
+You need at least 4 Gb to run Quake Champions. If you don't have enough RAM, the game is gonna run very slow, and if you run out of virtual memory, the game will crash.
 
 
 The game still gets stuck
