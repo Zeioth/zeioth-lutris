@@ -23,7 +23,7 @@ Low FPS - Determining the cause
 There are 3 possible causes for low FPS:
 
 **CPU**: 
-This is the most common issue. Enable the CPU monitor of your operative syste, and make sure that your CPU is not working at 100% capacity. If this is the case, then you have a bottleneck.
+This is the most common issue. Enable the CPU monitor of your operative system, and make sure that your CPU is not working at 100% capacity. If this is the case, then you have a bottleneck.
 
 **GPU**: 
 Once you have discarded a CPU issue: The better your GPU is, the more FPS you are gonna get. As simple as that. In some cases, havig the last version of Wine, DXVk, and your GPU drivers, can help to increase FPS.
