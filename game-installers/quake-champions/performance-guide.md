@@ -48,7 +48,9 @@ Sorry to be harsh here, but it's true. No matter how good your system is, you st
 
 Other minor optimizations
 -----------------------------------------------
-Take a look to [Lutris performance guide](https://github.com/lutris/lutris/wiki/Performance-Tweaks).
+
+* Take a look to [Lutris performance guide](https://github.com/lutris/lutris/wiki/Performance-Tweaks).
+* How to setup your mouse correctly (coming soon)
 
 
 Results you can expect
