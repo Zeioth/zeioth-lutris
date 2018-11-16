@@ -50,7 +50,7 @@ Other minor optimizations
 -----------------------------------------------
 
 * Take a look to [Lutris performance guide](https://github.com/lutris/lutris/wiki/Performance-Tweaks).
-* Setup your mouse correctly (coming soon).
+* Setup your mouse (coming soon).
 
 
 Results you can expect
