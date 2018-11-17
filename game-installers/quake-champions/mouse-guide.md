@@ -69,7 +69,7 @@ Now, if you want to spend more money, you can get one with a better sensor. This
 
 **High quallity sensor**
 
-* [Zowie](zowie.benq.com) (This is the one I and most pro players use. The same mouse has different sizes for every kind of hand and style: claw, palm) - About 80€
-* [Razer Mamba](https://www2.razer.com/es-es/gaming-mice/razer-mamba) - About 80€
+* [Zowie](zowie.benq.com) (This is the one I and most pro players use. The same mouse has different sizes for every kind of hand and style: claw, palm) - About 70€
+* [Razer DeathAdder](https://www.razer.com/gaming-mice/razer-deathadder-elite) - About 70€
 
 There's a million of good mouses out there, these are just the most popular ones.
