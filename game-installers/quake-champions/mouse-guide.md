@@ -49,9 +49,14 @@ If you want to perform easier combo kills, switch the nailgun and the rail butto
 
 Recommend me a mouse
 ======================
-**What kind of mouse do you recommend me?**
 
-Things you need to play Quake Champions at high level are: A physical DPI button, Pollin rate: 1000, and 2 side button. Now, if you want to spend more money, you can get one with a better sensor. This mouses respond better when you lift off the mouse at a short distance from your mousepad.
+The things you need in a mouse in order to play Quake Champions at high level are: 
+
+* A physical DPI button
+* Polling rate 1000 or more
+* 2 side button. 
+
+Now, if you want to spend more money, you can get one with a better sensor. This mouses respond better when you lift off the mouse at a short distance from your mousepad.
 
 Budget:
 
