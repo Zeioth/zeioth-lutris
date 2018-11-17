@@ -2,8 +2,8 @@ PREPARE YOUR MOUSE FOR QUAKE CHAMPIONS
 =======================================
 Every operative system has its own sensivity values. But this values interfere with the ones you set inside of the game. To avoid this, make sure of the next things in your desktop environment:
 
-1) Set your sensivity to 0.
-2) Set your acceleration to 0.
+1) Set your sensivity to 0
+2) Set your acceleration to 0
 3) Pperformance-guide.mderformance-guide.md Using the physical button of your mouse, set your DPI to your desired value. 1600 DPI is recomended, because it's also a good value for desktop.
 
 This way, the values you set inside on Quake Champions, will be 100% accurate.
