@@ -15,7 +15,7 @@ FAQ
 
 Every mouse has a default DPI value. But if this value is too low (400) your pointer will move very slow, which it can be very annoying while your use your web browser. If this is your case, I advise you to buy a new mouse with a physical DPI button, since they are cheap, and a great investment.
 
-**What are good example values to set inside Quake Champions?**
+**What are good example values? (inside Quake Champions)**
 
 * Sensivity 5
 * Acceleration 0.3 or 0.0
