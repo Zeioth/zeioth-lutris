@@ -13,7 +13,7 @@ FAQ
 
 **What if my mouse don't have a physical button for DPI?**
 
-Every mouse has a default DPI value. But if this value is too low (400) your desktop sensivity will be very slow, which it can be very annoying while your use your web browser. If this is your case, I advise you to buy a new mouse with a physical DPI button, since they are cheap, and a great investment.
+Every mouse has a default DPI value. But if this value is too low (400) your pointer will move very slow, which it can be very annoying while your use your web browser. If this is your case, I advise you to buy a new mouse with a physical DPI button, since they are cheap, and a great investment.
 
 **What are good example values?**
 
