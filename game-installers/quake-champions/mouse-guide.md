@@ -27,7 +27,7 @@ Every mouse has a default DPI value. But if this value is too low (400) your poi
 
 **How can I get the same mouse settings in Windows AND Linux?**
 
-You should set to 0 your sensivity and mouse acceleration in both [Windows](https://www.tomshardware.com/news/how-to-disable-mouse-acceleration-windows,36886.html) and Linux. That way you will have the same experience in both systems since only the values inside of the game will be applied.
+You should set to 0 your sensivity and mouse acceleration in both [Windows](https://www.tomshardware.com/news/how-to-disable-mouse-acceleration-windows,36886.html) and Linux. That way you will have the same experience in both systems and only the values inside of the game will be applied.
 
 RECOMENDED KEYBINDS
 ========================================
