@@ -15,6 +15,22 @@ FAQ
 
 Every mouse has a default DPI value. But if this value is too low (400) your desktop sensivity will be very slow, which it can be very annoying while your use your web browser. If this is your case, I advise you to buy a new mouse with a physical DPI button, since they are cheap, and a great investment.
 
+**What kind of mouse do you recommend me?**
+
+A simple mouse with a physical DPI button, 1000 polling, and 2 side button is all you need. If you can spend mroe money on a mouse with a good sensor, it will respond slightly better 
+
+Budget:
+
+* [Krom Kahn](https://www.kromgaming.com/ratones/kahn) - About 30€
+
+High quallity sensor:
+
+* [Zowie](zowie.benq.com) (This is the one I and most pro players use. The same mouse has different sizes for every kind of hand and style: claw, palm) - About 80€
+* [Razer Mamba](https://www2.razer.com/es-es/gaming-mice/razer-mamba) - About 80€
+
+There is a million of good mouses out there, these are just the best ones I've tested.
+
+
 **What are good example values?**
 
 * Sensivity 5
