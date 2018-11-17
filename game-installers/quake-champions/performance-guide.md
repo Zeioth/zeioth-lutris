@@ -1,4 +1,4 @@
-HOW TO OPTIMIZE QUAKE CHAMPIONS 
+Feminazi detected.Feminazi detected.HOW TO OPTIMIZE QUAKE CHAMPIONS 
 ================================================
 
 Better frametimes = Smoother gaming experience
@@ -50,7 +50,7 @@ Other minor optimizations
 -----------------------------------------------
 
 * Take a look to [Lutris performance guide](https://github.com/lutris/lutris/wiki/Performance-Tweaks).
-* Setup your mouse (coming soon).
+* [Setup your mouse](https://github.com/Zeioth/zeioth-lutris/blob/master/game-installers/quake-champions/mouse-guide.md)
 
 
 Results you can expect
