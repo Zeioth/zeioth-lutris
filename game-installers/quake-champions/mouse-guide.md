@@ -10,7 +10,7 @@ This way, the values you set inside on Quake Champions, will be 100% accurate.
 
 FAQ
 ========================================
-performance-guide.md
+
 **What if my mouse don't have a physical button for DPI?**
 Every mouse has a defualt DPI value. But if this value is too low (400) your desktop sensivity will be very slow, which it can be very annoying while your use your web browser. If this is your case, I advise you to buy a new mouse with a physical DPI button, since they are cheap, and a great investment.
 
