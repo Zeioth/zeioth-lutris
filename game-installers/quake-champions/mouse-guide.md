@@ -25,6 +25,10 @@ Every mouse has a default DPI value. But if this value is too low (400) your poi
 * **IF ENABLED**: The bigger is your momentum, the farther the camera will move. This way it's easier to deliver flicker rails, and to combat at short range, using bigger swings. This setup obligates you to keep your mouse almost completely static when you use LG.
 * **IF DISABLED**: The movement of the mouse is always the same. No matter how you move it. This is great for LG, but not so good for rail. Your muscular memory develops faster this way, so this technique is easier to learn.
 
+**How can I get the same mouse settings in Windows AND Linux?**
+
+You should set to 0 your sensivity and mouse acceleration in both [Windows](https://www.tomshardware.com/news/how-to-disable-mouse-acceleration-windows,36886.html) and Linux. That way you will have the same experience in both systems since only the values inside of the game will be applied.
+
 RECOMENDED KEYBINDS
 ========================================
 
