@@ -1,4 +1,4 @@
-PREPARE YOUR MICE FOR QUAKE CHAMPIONS
+PREPARE YOUR MOUSE FOR QUAKE CHAMPIONS
 =======================================
 Every operative system has its own sensivity values. But this values interfere with the ones you set inside of the game. To avoid this, make sure of the next things in your desktop environment:
 
