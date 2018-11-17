@@ -58,11 +58,11 @@ The things you need in a mouse in order to play Quake Champions at high level ar
 
 Now, if you want to spend more money, you can get one with a better sensor. This mouses respond better when you lift off the mouse at a short distance from your mousepad.
 
-Budget:
+**Budget**
 
 * [Krom Kahn](https://www.kromgaming.com/ratones/kahn) - About 30€
 
-High quallity sensor:
+**High quallity sensor**
 
 * [Zowie](zowie.benq.com) (This is the one I and most pro players use. The same mouse has different sizes for every kind of hand and style: claw, palm) - About 80€
 * [Razer Mamba](https://www2.razer.com/es-es/gaming-mice/razer-mamba) - About 80€
