@@ -47,7 +47,7 @@ Because the weapons are ordered in a login way:
 If you want to perform easier combo kills, switch the nailgun and the rail buttons.
 
 
-Recommended mouses
+RECOMMENDED MOUSES
 ======================
 
 The things you need in a mouse in order to play Quake Champions at high level are: 
