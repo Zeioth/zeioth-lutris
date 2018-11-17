@@ -22,8 +22,8 @@ Every mouse has a default DPI value. But if this value is too low (400) your poi
 
 **Mouse acceleration yes or no?**
 
-* **Yes**: The bigger is your momentum, the farther the camera will move. This way it's easier to deliver flicker rails, and to combat at short range since using bigger swings will allow you to move your camera farther. This setup obligates you to keep your mouse almost completely static when you use LG.
-* **No**: The movement of the mouse is always the same. No matter how you move it. This is great for LG, but not so good for rail. Your muscular memory develops faster this way, so this technique is easier to learn.
+* **PROS**: The bigger is your momentum, the farther the camera will move. This way it's easier to deliver flicker rails, and to combat at short range since using bigger swings will allow you to move your camera farther. This setup obligates you to keep your mouse almost completely static when you use LG.
+* **CONS**: The movement of the mouse is always the same. No matter how you move it. This is great for LG, but not so good for rail. Your muscular memory develops faster this way, so this technique is easier to learn.
 
 RECOMENDED KEYBINDS
 ========================================
