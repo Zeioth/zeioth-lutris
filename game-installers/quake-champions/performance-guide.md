@@ -1,4 +1,4 @@
-Feminazi detected.Feminazi detected.HOW TO OPTIMIZE QUAKE CHAMPIONS 
+HOW TO OPTIMIZE QUAKE CHAMPIONS 
 ================================================
 
 Better frametimes = Smoother gaming experience
