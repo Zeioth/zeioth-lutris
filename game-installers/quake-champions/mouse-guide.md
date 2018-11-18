@@ -27,7 +27,7 @@ Every mouse has a default DPI value. But if this value is too low (400) your poi
 
 **How can I get the same mouse settings in Windows AND Linux?**
 
-You should set to 0 your sensivity and mouse acceleration in both [Windows](https://www.tomshardware.com/news/how-to-disable-mouse-acceleration-windows,36886.html) and Linux. That way you will have the same experience in both systems and only the values inside of the game will be applied.
+Sadly, you can't achive this in a precise way. Both operative systems use a different kernels, so the mouse values are different. Roughly, your values on Windows will be the same as on Linux, but divided by two. If you are a serious player, it's a good idea to play using always the same operative system, otherwise it will affect your muscular memory.
 
 RECOMENDED KEYBINDS
 ========================================
@@ -73,3 +73,8 @@ Now, if you want to spend more money, you can get one with a better sensor. This
 * [Razer DeathAdder](https://www.razer.com/gaming-mice/razer-deathadder-elite) - About 70€
 
 There's a million of good mouses out there, these are just the most popular ones.
+
+
+THINGS TO DO
+======================
+This guide has been tested on XFCE/xorg. It has to be tested on other desktop environments/graphic servers.
