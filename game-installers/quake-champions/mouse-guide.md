@@ -27,7 +27,7 @@ Every mouse has a default DPI value. But if this value is too low (400) your poi
 
 **How can I get the same mouse settings in Windows AND Linux?**
 
-Sadly, you can't achive this in a precise way. Both operative systems use a different kernels, so the mouse values are different. Roughly, your values on Windows will be the same as on Linux, but divided by two. If you are a serious player, it's a good idea to play using always the same operative system, otherwise it will affect your muscular memory.
+Sadly, you can't. At least not in a precise way. Both operative systems use a different kernels, so the mouse values are different. Roughly, your values on Windows will be the same as on Linux, but divided by two. If you are a serious player, it's a good idea to play using always the same operative system, otherwise it will affect your muscular memory.
 
 RECOMENDED KEYBINDS
 ========================================
