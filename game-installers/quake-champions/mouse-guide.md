@@ -77,4 +77,4 @@ There's a million of good mouses out there, these are just the most popular ones
 
 THINGS TO DO
 ======================
-This guide has been tested on XFCE/xorg. It has to be tested on other desktop environments/graphic servers.
+This guide has been tested on XFCE/xorg. It has to be tested on other desktop environments/graphic servers. I'll do it during the next days. Expect updates soon.
