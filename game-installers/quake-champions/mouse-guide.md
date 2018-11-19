@@ -17,7 +17,8 @@ Every mouse has a default DPI value. But if this value is too low (400) your poi
 
 **What are good example values? (inside Quake Champions)**
 
-* DPI 1600
+For DPI 1600:
+
 * Sensivity 5
 * Acceleration 0.1 or 0.0
 
