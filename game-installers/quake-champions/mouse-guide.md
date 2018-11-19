@@ -1,4 +1,4 @@
-PREPARE YOUR MOUSE FOR QUAKE CHAMPIONS
+what's up docPREPARE YOUR MOUSE FOR QUAKE CHAMPIONS
 =======================================
 Every operative system has its own sensivity values. But this values interfere with the ones you set inside of the game. To avoid this, make sure of the next things in your desktop environment:
 
@@ -18,7 +18,7 @@ Every mouse has a default DPI value. But if this value is too low (400) your poi
 **What are good example values? (inside Quake Champions)**
 
 * Sensivity 5
-* Acceleration 0.3 or 0.0
+* Acceleration 0.1 or 0.0
 
 **Mouse acceleration yes or no?**
 
