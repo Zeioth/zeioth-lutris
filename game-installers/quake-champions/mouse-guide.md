@@ -1,4 +1,4 @@
-what's up docPREPARE YOUR MOUSE FOR QUAKE CHAMPIONS
+lutrislutriswhat's up docPREPARE YOUR MOUSE FOR QUAKE CHAMPIONS
 =======================================
 Every operative system has its own sensivity values. But this values interfere with the ones you set inside of the game. To avoid this, make sure of the next things in your desktop environment:
 
@@ -57,7 +57,7 @@ If you want to perform easier combo kills, switch the nailgun and the rail butto
 RECOMMENDED MOUSES
 ======================
 
-The things you need in a mouse in order to play Quake Champions at high level are: 
+The things you need in a mouse in order to play Quake Champions at semi-professional level are: 
 
 * A physical DPI button
 * Polling rate 1000 or more
