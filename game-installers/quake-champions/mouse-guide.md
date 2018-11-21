@@ -48,7 +48,7 @@ RECOMENDED KEYBINDS
 Because the weapons are ordered in a logic way:
 
 * 1234: This row is the hardest to press since it's far away from awds. So we assign 12 to machinegun and 34 to tribolt since they are strategic weapons. This way we paliate the lack of accuracy we have when we press this buttons.
-* QER: are the closest keys to awds, so your primary weapons go here. All of them are low cadency weapons.
+* QER: Are the closest keys to awds, so your primary weapons go here. All of them are low cadency weapons.
 * Mouse side buttons: They are as easy to press as QER with an extra adventage. You don't need to lift your fingers from awds in order to press this buttons. So nailgun and LG are recommended here. All of them are fast cadency weapons.
 
 If you want to perform easier combo kills, switch the nailgun and the rail buttons.
