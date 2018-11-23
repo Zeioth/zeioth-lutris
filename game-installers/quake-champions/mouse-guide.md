@@ -45,7 +45,7 @@ RECOMENDED KEYBINDS
 
 **Why?**
 
-Because the weapons are ordered in a logic way:
+Because the weapons are ordered in a logical way:
 
 * 1234: This row is the hardest to press since it's far away from awds. So we assign 12 to machinegun and 34 to tribolt since they are strategic weapons. This way we paliate the lack of accuracy we have when we press this buttons.
 * QER: Are the closest keys to awds, so your primary weapons go here. All of them are low cadency weapons.
