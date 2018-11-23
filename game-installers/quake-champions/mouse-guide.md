@@ -4,7 +4,7 @@ Every operative system has its own sensivity values. But this values interfere w
 
 1) Set your sensivity to 0
 2) Set your acceleration to 0
-3) Using the physical button of your mouse, set your DPI to your desired value. 1600 DPI is recomended, because it's also a good value for desktop. Tut it's your choice.
+3) Using the physical button of your mouse, set your DPI to your desired value. 1600 DPI is recomended, because it's also a good value for desktop. But it's your choice.
 
 This way, the values you set inside on Quake Champions, will be 100% accurate.
 
