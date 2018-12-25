@@ -19,7 +19,7 @@ Every mouse has a default DPI value. But if this value is too low (400) your poi
 
 For DPI 1600:
 
-* Sensivity 5
+* Sensivity 5.0 or 6.5
 * Acceleration 0.1 or 0.0
 
 **Mouse acceleration yes or no?**
