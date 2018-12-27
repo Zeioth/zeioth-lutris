@@ -57,7 +57,7 @@ Results you can expect
 As long as your hardware has no bottlenecks, you can expect this kind of performance. [See video](https://www.youtube.com/watch?v=oHMOgV-8heM&t).
 
 
-Making your game look smoother through hardware
+Making QC look smoother through hardware
 ------------------------------------------------------------
 
 **Will a 144Hz screen improve my gaming experience?**
