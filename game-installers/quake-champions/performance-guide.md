@@ -1,4 +1,4 @@
-dxvk frame timesHOW TO OPTIMIZE QUAKE CHAMPIONS 
+HOW TO OPTIMIZE QUAKE CHAMPIONS 
 ================================================
 
 Better frametimes = Smoother gaming experience
