@@ -61,7 +61,7 @@ Extra tips
 ------------------------------------------------------------
 
 **Will a 144Hz screen improve my gaming experience?**
-Yes. Especially for this game since your eyes will receive twice as much information, which make easier for your brain to interpret what is happening on the screen, improving your reaction time.
+Yes. Especially for this game. Your eyes will receive twice as much information, which make easier for your brain to interpret what is happening on the screen, improving your reaction time.
 
 **Will a 240Hz screen improve my gaming experience?**
 Most likely no. (Only if your graphic card can handle the game at 200+FPS).
