@@ -46,9 +46,7 @@ Sorry to be harsh here, but it's true. No matter how good your system is, you st
 
 
 **Do FreeSync/G-Sync make a difference?**: 
-Yes. Even if your hardware can run the game at 100%, without bottlenecks, running Quake Champions with DXVK you will get on average x2.5 worse frametimes than Windows. This is the result of converting a DX11 game to Vulkan in real time.
-
-The only way I know to avoid this, is to use a FreeSync/G-Sync screen. That way the screen will take care of syncronyzing the frames. In this case it's recommended to uncheck v-sync, and unlimit the FPS inside of the game.
+Yes. Even if your hardware can run the game at 100%, without bottlenecks, running Quake Champions with DXVK you will get on average x2.5 worse frametimes than Windows. This is the result of converting a DX11 game to Vulkan in real time. To avoid this, use a FreeSync/G-Sync screen. That way the screen will take care of syncronyzing the frames. In this case it's recommended to uncheck v-sync, and unlimit the FPS inside of the game.
 
 Other minor optimizations
 -----------------------------------------------
