@@ -45,9 +45,6 @@ Vulkan need some time to fill the shader cache. After a couple of matches, the F
 Sorry to be harsh here, but it's true. No matter how good your system is, you still are going to experience FPS spikes in 3 moments: When you die, when you respawn, and when you use a portal. This problem also exists on Windows. Luckly most of the time it's not very noticeable.
 
 
-**Do FreeSync/G-Sync make a difference?**: 
-Yes, specially on Linux. Even if your hardware can handle the game without bottlenecks, running Quake Champions with DXVK you will get on average x2.5 worse frametimes than Windows. This is the result of converting a DX11 game to Vulkan in real time. To avoid this, use a FreeSync/G-Sync screen. That way the screen will take care of syncronyzing the frames. When using this technology, it's recommended to uncheck v-sync, and unlimit the FPS inside of the game.
-
 Other minor optimizations
 -----------------------------------------------
 
@@ -58,3 +55,16 @@ Other minor optimizations
 Results you can expect
 -----------------------------------------------
 As long as your hardware has no bottlenecks, you can expect this kind of performance. [See video](https://www.youtube.com/watch?v=oHMOgV-8heM&t).
+
+
+Extra tips
+------------------------------------------------------------
+
+**Will a 144Hz screen improve my gaming experience?**
+Yes. Especially for this game since your eyes will receive twice as much information, which make easier for your brain to interpret what is happening on the screen, improving your reaction time.
+
+**Will a 240Hz screen improve my gaming experience?**
+Most likely no. (Only if your graphic card can handle the game at 200+FPS).
+
+**Will a FeeSync/G-Sync screen improve my gaming experience?**
+Only if you have a 144/240 screen. When you use this technology you don't need to limit your FPS, which allow you to get more FPS without stuttering/tearing.
