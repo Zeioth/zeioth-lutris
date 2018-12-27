@@ -1,4 +1,4 @@
-HOW TO OPTIMIZE QUAKE CHAMPIONS 
+dxvk frame timesHOW TO OPTIMIZE QUAKE CHAMPIONS 
 ================================================
 
 Better frametimes = Smoother gaming experience
@@ -45,6 +45,10 @@ Vulkan need some time to fill the shader cache. After a couple of matches, the F
 Sorry to be harsh here, but it's true. No matter how good your system is, you still are going to experience FPS spikes in 3 moments: When you die, when you respawn, and when you use a portal. This problem also exists on Windows. Luckly most of the time it's not very noticeable.
 
 
+**Do FreeSync/G-Sync make a difference?**: 
+Yes. Even if your hardware can run the game at 100%, without bottlenecks, running Quake Champions with DXVK you will get on average x2.5 worse frametimes than Windows. This is the result of converting a DX11 game to Vulkan in real time.
+
+The only way I know to avoid this, is to use a FreeSync/G-Sync screen. That way the screen will take care of syncronyzing the frames. In this case it's recommended to uncheck v-sync, and unlimit the FPS inside of the game.
 
 Other minor optimizations
 -----------------------------------------------
