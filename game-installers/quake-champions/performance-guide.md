@@ -55,16 +55,3 @@ Other minor optimizations
 Results you can expect
 -----------------------------------------------
 As long as your hardware has no bottlenecks, you can expect this kind of performance. [See video](https://www.youtube.com/watch?v=oHMOgV-8heM&t).
-
-
-Making QC look smoother through hardware
-------------------------------------------------------------
-
-**Will a 144Hz screen improve my gaming experience?**
-Yes. Especially for this game. Your eyes will receive twice as much information, which make easier for your brain to understand what is happening on the screen, improving your reaction time.
-
-**Will a 240Hz screen improve my gaming experience?**
-Most likely no. You need a GPU that can deliver +200FPS.
-
-**Will a FeeSync/G-Sync screen improve my gaming experience?**
-Only if you have a 144/240 screen. When you use this technology you don't need to limit your FPS, which allow you to get more FPS without stuttering/tearing.
