@@ -17,7 +17,7 @@ If you want to experiment by yourself, you can enable the [frametimes graph](htt
 
 You will see something like [this graph](https://i.imgur.com/5UkiBri.png). Take a good look to your Min and Max frametimes. The less difference there's between both values, the less stuttering you are going to experience.
 
-**For Gsync/Freesync monitors:** If you have a gsync/freesync monitor, then you must unlimit your FPS and enable Vsync in order to use this feature.
+**For Gsync/Freesync monitor users:** If you have a gsync/freesync monitor, then you must unlimit your FPS and enable Vsync in order to use this feature.
 
 
 Low FPS - Determining the cause
