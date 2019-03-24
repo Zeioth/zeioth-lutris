@@ -17,7 +17,7 @@ If you want to experiment by yourself, you can enable the [frametimes graph](htt
 
 You will see something like [this graph](https://i.imgur.com/5UkiBri.png). Take a good look to your Min and Max frametimes. The less difference there's between both values, the less stuttering you are going to experience.
 
-**For Gsync/Freesync monitor users:** You must unlimit your FPS and enable Vsync from the game settings in order to use this feature. Also, make sure you enable this feature in your drivers.
+**For Gsync/Freesync monitor users:** You must unlimit your FPS and enable Vsync im the game settings in order to use this feature. Also, make sure you enable it in your drivers settings, and in your screen.
 
 
 Low FPS - Determining the cause
