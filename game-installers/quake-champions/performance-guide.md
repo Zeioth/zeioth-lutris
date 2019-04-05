@@ -46,6 +46,9 @@ Vulkan need some time to fill the shader cache. After a couple of matches, the F
 **QC is not 100% optimized**: 
 Sorry to be harsh here, but it's true. No matter how good your system is, you still are going to experience FPS spikes in 3 moments: When you die, when you respawn, and when you use a portal. This problem also exists on Windows. Luckly most of the time it's not very noticeable.
 
+**Set your mouse polling rate to 125 or 500**: 
+Currently there's a [known](https://github.com/doitsujin/dxvk/issues/1001) bug on DXVK/WINE when a high polling rate is used. It can produce stuttering when moving the camera, even on high end PCs.
+
 
 Other minor optimizations
 -----------------------------------------------
