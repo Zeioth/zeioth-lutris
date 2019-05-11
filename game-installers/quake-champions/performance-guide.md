@@ -46,8 +46,8 @@ Vulkan need some time to fill the shader cache. After a couple of matches, the F
 **QC is not 100% optimized**: 
 Sorry to be harsh here, but it's true. No matter how good your system is, you still are going to experience FPS spikes in 3 moments: When you die, when you respawn, and when you use a portal. This problem also exists on Windows. Luckly most of the time it's not very noticeable.
 
-**Set your mouse polling rate to 125 or 500**: 
-Currently there's a [known](https://github.com/doitsujin/dxvk/issues/1001) bug on WINE when a high polling rate is used. It can produce stuttering when moving the camera, even on high end PCs.
+**Check your mouse polling rate**: 
+Some people experience a [known](https://github.com/doitsujin/dxvk/issues/1001) bug where using a polling rate of 1000 causes stuttering in all wine games. The cause of this issue are some motherboard manufacturers. Upgrading your motherboard firmware can fix this issue in some hardware (Confirmed for MSI B350 Tomahawk Arctic).
 
 
 Other minor optimizations
